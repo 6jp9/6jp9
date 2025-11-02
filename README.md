@@ -17,9 +17,9 @@ My interests include **data engineering**, **API design**, and **automation**, w
 ### ⚙️ Technical Skills
 
 - **Languages:** Python  
-- **Frameworks:** Django, Django REST Framework  
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap  
-- **Databases:** MySQL, Oracle  
+- **Frameworks:** Django, Django REST Framework, Bootstrap
+- **Web:** HTML, CSS, JavaScript, Jinja
+- **Databases & Cloud:** MySQL, Oracle, MongoDB, AWS(Basics)
 - **Version Control:** Git & GitHub  
 - **IDE:** VS Code, PyCharm  
 
@@ -56,6 +56,7 @@ My interests include **data engineering**, **API design**, and **automation**, w
 ### 💼 Projects
 
 #### 🛒 [Shop@JP](https://github.com/6jp9/Shop-at-JP)
+(<a href="http://3.26.190.129:8000/" target="_blank">Live Demo🔗</a> — hosted on AWS trial instance)
 *Full-Stack E-Commerce Platform*  
 Technologies: Django, Python, MySQL, HTML, CSS, Bootstrap, JavaScript, Stripe API  
 - Built product catalog, cart, and checkout with inventory management.  
