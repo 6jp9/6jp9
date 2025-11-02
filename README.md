@@ -57,6 +57,7 @@ My interests include **data engineering**, **API design**, and **automation**, w
 
 #### 🛒 [Shop@JP](https://github.com/6jp9/Shop-at-JP)
 (<a href="http://3.26.190.129:8000/" target="_blank">Live Demo🔗</a> — hosted on AWS trial instance)
+
 *Full-Stack E-Commerce Platform*  
 Technologies: Django, Python, MySQL, HTML, CSS, Bootstrap, JavaScript, Stripe API  
 - Built product catalog, cart, and checkout with inventory management.  
