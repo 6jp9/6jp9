@@ -49,28 +49,6 @@ My interests include **data engineering**, **API design**, and **automation**, w
 
 ---
 
-### 💼 Projects
-
-#### 🛒 [Shop@JP](https://github.com/6jp9/Shop-at-JP)
-(<a href="http://3.26.190.129:8000/" target="_blank">Live Demo🔗</a> — hosted on AWS trial instance)
-
-*Full-Stack E-Commerce Platform*  
-Technologies: Django, Python, MySQL, HTML, CSS, Bootstrap, JavaScript, Stripe API  
-- Built product catalog, cart, and checkout with inventory management.  
-- Integrated Stripe payments with webhooks for automated order handling.  
-- Developed REST API with token-based authentication and merchant dashboards.  
-- Implemented responsive UI for both desktop and mobile users.  
-
-#### 🧩 [Quiz App](https://github.com/6jp9/SimpleDjangoProjects)
-*Django-based MCQ Platform*  
-Technologies: Django, Python, MySQL/SQLite, HTML, CSS, Bootstrap  
-- Developed login-protected quiz system with OTP verification.  
-- Implemented timed quizzes with real-time scoring and feedback.  
-- Imported/exported 180+ questions using JSON fixtures for easy updates.  
-- Applied security practices: CSRF protection, form validation, and session handling.  
-
----
-
 ### 🎯 Goals
 
 To contribute to innovative backend systems, build scalable APIs, and explore data-driven applications that solve real-world problems.
