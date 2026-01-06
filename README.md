@@ -16,7 +16,7 @@ My interests include **data engineering**, **API design**, and **automation**, w
 
 ### ⚙️ Technical Skills
 
-- **Languages:** Python  
+- **Languages:** Python, Java  
 - **Frameworks:** Django, Django REST Framework, Bootstrap
 - **Web:** HTML, CSS, JavaScript, Jinja
 - **Databases & Cloud:** MySQL, Oracle, MongoDB, AWS(Basics)
